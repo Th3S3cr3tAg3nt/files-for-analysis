@@ -1,2 +1,2 @@
 # files-for-analysis
-Juts a dumping ground for interesting files.
+Just a dumping ground for interesting files.
